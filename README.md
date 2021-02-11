@@ -4,5 +4,7 @@ This function allows one to compute intraclass correlation coefficients for ever
 Required packages: tidyverse, irr
 
 
-For further reading, see Koo & Li (2016): /n
+For further reading, see Koo & Li (2016):
+
+
 Koo, T. K., & Li, M. Y. (2016). A guideline of selecting and reporting intraclass correlation coefficients for reliability research. Journal of chiropractic medicine, 15(2), 155-163.
